@@ -1,4 +1,4 @@
-# Animals*
+# Animals
 
 * [+] SwiftUI
 * [+] Animation
